@@ -58,6 +58,9 @@ body {
     font-size: 14px;
     margin-top: 15px;
     margin-bottom: 15px;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 
 .btn-primary {
@@ -104,7 +107,7 @@ body {
 }
 
 .horarios {
-    width: 50%;
+    max-width: 450px;
     margin-top: -5px;
 }
 
